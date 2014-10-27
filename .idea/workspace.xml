@@ -52,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="17" selection-start="238" selection-end="238" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="600">
+            <state line="16" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.51282054" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
@@ -79,10 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repeat-view.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="repeat-view.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="38" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.3333333" vertical-offset="1152" max-vertical-offset="1620">
+            <state line="4" column="38" selection-start="233" selection-end="233" vertical-scroll-proportion="45.5" vertical-offset="1152" max-vertical-offset="1620">
               <folding />
             </state>
           </provider>
@@ -149,6 +149,7 @@
         <option value="$PROJECT_DIR$/lib/ng-perf-patches.js" />
         <option value="$PROJECT_DIR$/lib/ngpLocalEventDirs.js" />
         <option value="$PROJECT_DIR$/examples/directives/randomButton.js" />
+        <option value="$PROJECT_DIR$/demo-app/index.html" />
       </list>
     </option>
   </component>
@@ -392,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="17" selection-start="238" selection-end="238" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="-1.2" vertical-offset="15" max-vertical-offset="135">
@@ -452,7 +446,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="233" selection-end="233" vertical-scroll-proportion="-2.3333333" vertical-offset="1152" max-vertical-offset="1620">
+        <state line="4" column="38" selection-start="233" selection-end="233" vertical-scroll-proportion="45.5" vertical-offset="1152" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="0.51282054" vertical-offset="0" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
