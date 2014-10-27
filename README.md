@@ -13,9 +13,10 @@ To use directives
 
 Include ngPerfLocalDirectives.js and add module ngPerf.directives as a dependency
 
-```javascript
 
 Here's an example directive using ngp-local-click.
+
+```javascript
 
 angular.module('ngPerf.randomButton', ['ngPerf.directives'])
     .directive('randomButton', function() {
