@@ -7,7 +7,7 @@ angular.module('ngPerf.randomButton', [])
                 $scope.randomNumber = '123';
                 $scope.generateRandom = function() {
                     $scope.randomNumber = Math.floor(Math.random()*100);
-//                    event.preventDefault();
+//                    event.preventDefault(); //uncomment to suppress digest altogether
                 }
             },
             template: '<button ngp-local-click="generateRandom(event)">Random</button><span ng-bind="randomNumber"></span>',
