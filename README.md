@@ -2,6 +2,7 @@ ng-perf is a set of utilities to help with AngularJS performance.
 
 
 ngp-local-*
+===========
 
 A set of events that invoke $scope.digest() instead of $rootScope.apply. This will help with directives where the result of events only needs to be applied to the current scope and downward instead of all the way from rootScope. These events also provide a way to supress the digest altogether via preventDefault method.
 

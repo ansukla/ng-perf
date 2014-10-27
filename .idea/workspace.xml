@@ -61,15 +61,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repeat-ng-bind.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-ng-bind.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="8" selection-start="714" selection-end="714" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="345">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="repeat-template.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-template.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,10 +88,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="0" selection-start="551" selection-end="1307" vertical-scroll-proportion="0.7929515" vertical-offset="225" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="27" selection-start="100" selection-end="119" vertical-scroll-proportion="0.12195122" vertical-offset="0" max-vertical-offset="492">
+            <state line="12" column="24" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -151,6 +151,7 @@
         <option value="$PROJECT_DIR$/examples/directives/randomButton.js" />
         <option value="$PROJECT_DIR$/demo-app/index.html" />
         <option value="$PROJECT_DIR$/demo-app/directives/randomButton.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -445,6 +446,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-app/directives/randomButton.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="7" selection-start="663" selection-end="663" vertical-scroll-proportion="-8.653846" vertical-offset="0" max-vertical-offset="315">
@@ -452,9 +460,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/app.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="100" selection-end="119" vertical-scroll-proportion="0.12195122" vertical-offset="0" max-vertical-offset="492">
+        <state line="39" column="0" selection-start="551" selection-end="1307" vertical-scroll-proportion="0.7929515" vertical-offset="225" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
