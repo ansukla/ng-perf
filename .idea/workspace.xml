@@ -35,7 +35,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="43" selection-end="43" vertical-scroll-proportion="-1.2" vertical-offset="0" max-vertical-offset="120">
+            <state line="3" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="-1.2" vertical-offset="15" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
@@ -212,20 +212,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ng-perf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ng-perf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -378,13 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/bower_components/angular/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12510" column="26" selection-start="424730" selection-end="424740" vertical-scroll-proportion="0.33240613" vertical-offset="187411" max-vertical-offset="330525">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-app/expressions/expressions-ctrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="38" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
@@ -422,7 +401,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="43" selection-end="43" vertical-scroll-proportion="-1.2" vertical-offset="0" max-vertical-offset="120">
+        <state line="3" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="-1.2" vertical-offset="15" max-vertical-offset="135">
           <folding />
         </state>
       </provider>
