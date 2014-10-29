@@ -1,0 +1,31 @@
+{
+  "name": "ng-perf",
+  "homepage": "https://github.com/ansukla/ng-perf",
+  "authors": [
+    "Ambika Sukla <ambika.sukla@gmail.com>"
+  ],
+  "description": "add-ons to improve angularjs app performance",
+  "keywords": [
+    "perfmatters",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo-app",
+    "tests"
+  ],
+  "_release": "473140a1c3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "473140a1c3aa00451791dfd9eebe85f8ea0c4920"
+  },
+  "_source": "git://github.com/ansukla/ng-perf.git",
+  "_target": "*",
+  "_originalSource": "ng-perf",
+  "_direct": true
+}
