@@ -15,11 +15,11 @@ angular.module('NgPerf.controllers', []).
         }
         $scope.fetchData = function () {
             if (preBind) {
-                $.get('/ng-repeat/ng-repeat-data-1000.json', function (data) {
+                $.get('../ng-repeat/ng-repeat-data-1000.json', function (data) {
                     //angular.element("#myRemovableTable").detach();
                     angular.element("#directHTML").empty();
                     $scope.preloadedContacts = data;//.splice(0,3);
-                    $.get('/ng-repeat/repeat-template.html', function (data) {
+                    $.get('../ng-repeat/repeat-template.html', function (data) {
                         var orig = jQuery.fn.data;
                         var el = angular.element(data);
                         el.attr('id', 'myRemovableTable');
@@ -31,7 +31,7 @@ angular.module('NgPerf.controllers', []).
                 });
             } else {
 
-                $http({method: 'GET', url: '/ng-repeat/ng-repeat-data-1000.json'}).
+                $http({method: 'GET', url: '../ng-repeat/ng-repeat-data-1000.json'}).
                     success(function(data, status, headers, config) {
 
                         if (!$routeParams.direct) {
