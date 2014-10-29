@@ -1,0 +1,22 @@
+{
+  "name": "ng-perf",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ansukla/ng-perf",
+  "authors": [
+    "Ambika Sukla <ambika.sukla@gmail.com>"
+  ],
+  "description": "add-ons to improve angularjs app performance",
+  "keywords": [
+    "perfmatters",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo-app",
+    "tests"
+  ]
+}
