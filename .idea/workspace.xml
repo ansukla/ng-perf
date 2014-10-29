@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8fd4641-c715-4184-80a2-caea284a189b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-app/ng-perf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-app/app.js" afterPath="$PROJECT_DIR$/demo-app/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-app/index.html" afterPath="$PROJECT_DIR$/demo-app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js" afterPath="$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ng-perf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="370" selection-end="508" vertical-scroll-proportion="0.60897434" vertical-offset="0" max-vertical-offset="570">
+            <state line="24" column="13" selection-start="857" selection-end="857" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
@@ -69,7 +66,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="51" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="405">
+            <state line="18" column="44" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -111,10 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="repeat-ctrl.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="repeat-ctrl.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="46" selection-start="1520" selection-end="1520" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1260">
+            <state line="15" column="0" selection-start="615" selection-end="615" vertical-scroll-proportion="-1.1607516" vertical-offset="781" max-vertical-offset="1260">
               <folding />
             </state>
           </provider>
@@ -169,9 +166,9 @@
         <option value="$PROJECT_DIR$/demo-app/ng-repeat/bind-once.html" />
         <option value="$PROJECT_DIR$/demo-app/ng-repeat/repeat-view.html" />
         <option value="$PROJECT_DIR$/demo-app/ng-repeat/ng-style.html" />
+        <option value="$PROJECT_DIR$/demo-app/index.html" />
         <option value="$PROJECT_DIR$/demo-app/app.js" />
         <option value="$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js" />
-        <option value="$PROJECT_DIR$/demo-app/index.html" />
       </list>
     </option>
   </component>
@@ -690,23 +687,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js">
+    <entry file="file://$PROJECT_DIR$/demo-app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="46" selection-start="1520" selection-end="1520" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+        <state line="24" column="13" selection-start="857" selection-end="857" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="570">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="51" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+        <state line="18" column="44" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/index.html">
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="370" selection-end="508" vertical-scroll-proportion="0.60897434" vertical-offset="0" max-vertical-offset="570">
+        <state line="15" column="0" selection-start="615" selection-end="615" vertical-scroll-proportion="-1.1607516" vertical-offset="781" max-vertical-offset="1260">
           <folding />
         </state>
       </provider>
