@@ -17,6 +17,6 @@ angular.module('NgPerf', [
             when("/expression", {templateUrl: "ng-repeat/complex-expressions.html", controller: "repeatController"}).
             when("/expressions", {templateUrl: "expressions/expressions-view.html", controller: "expressionsController"}).
             otherwise({redirectTo: '/direct'});
-//        $compileProvider.debugInfoEnabled(true);
+        $compileProvider.debugInfoEnabled(false);
     }]
     );
