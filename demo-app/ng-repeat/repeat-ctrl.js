@@ -1,6 +1,6 @@
 angular.module('NgPerf.controllers', []).
 
-    controller('repeatController', ['$scope', '$http', '$log', '$compile', function($scope, $http, $log, $compile) {
+    controller('repeatController', ['$scope', '$http', '$log', '$compile', '$routeParams', function($scope, $http, $log, $compile, $routeParams) {
         var direct = false, preBind = false;
         $scope.contacts = [];
         $scope.random = function () {
@@ -8,6 +8,10 @@ angular.module('NgPerf.controllers', []).
         }
         $scope.flipColor = function () {
             $scope.negative = !$scope.negative;
+            $scope.color = $scope.negative? "red":"green";
+        }
+        $scope.myFunction = function () {
+            return '1234';
         }
         $scope.fetchData = function () {
             if (preBind) {
@@ -30,7 +34,7 @@ angular.module('NgPerf.controllers', []).
                 $http({method: 'GET', url: '/ng-repeat/ng-repeat-data-1000.json'}).
                     success(function(data, status, headers, config) {
 
-                        if (!direct) {
+                        if (!$routeParams.direct) {
 
                             $scope.contacts = data;
 
@@ -62,5 +66,14 @@ angular.module('NgPerf.controllers', []).
         $scope.fetchData();
         $scope.changeData = function() {
             $scope.contacts[0] && ($scope.contacts[0].name = Math.round(Math.random()*100));
+        }
+    }]);
+
+angular.module('NgPerf.controllers').
+    controller('randomController', ['$scope', '$http', '$log', '$compile', function($scope, $http, $log, $compile) {
+        $scope.randomNumber = '123';
+        $scope.generateRandom = function() {
+            $scope.randomNumber = Math.floor(Math.random()*100);
+//                    event.preventDefault(); //uncomment to suppress digest altogether
         }
     }]);

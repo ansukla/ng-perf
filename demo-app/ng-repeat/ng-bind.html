@@ -1,5 +1,8 @@
-<table>
-    <tr ng-repeat="contact in preloadedContacts">
+<table id="myTable">
+    <thead>
+    <tr><th colspan="4">Contacts</th></tr>
+    </thead>
+    <tr ng-repeat="contact in contacts">
         <td data-ng-bind="$index"></td>
         <td data-ng-bind="contact.name">
         </td>
@@ -15,4 +18,5 @@
         <td data-ng-bind="contact.longitude"></td>
         <td data-ng-bind="contact.favoriteFruit"></td>
     </tr>
+    </tbody>
 </table>

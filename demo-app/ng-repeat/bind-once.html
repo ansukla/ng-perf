@@ -1,0 +1,24 @@
+<button data-ng-click="changeData()">Change Something</button>
+<table id="myTable">
+    <thead>
+        <tr><th colspan="4">Contacts</th></tr>
+    </thead>
+    <tr ng-repeat="contact in contacts">
+        <td>{{::$index}}</td>
+        <td>
+        {{::contact.name}}
+        </td>
+        <td>{{::contact.company}}</td>
+        <td>{{::contact.email}}</td>
+        <td>{{::contact.age}}</td>
+        <td>{{::contact.eyeColor}}</td>
+        <td>{{::contact.gender}}</td>
+        <td>{{::contact.phone}}</td>
+        <td>{{::contact.address}}</td>
+        <td>{{::contact.registered}}</td>
+        <td>{{::contact.latitude}}</td>
+        <td>{{::contact.longitude}}</td>
+        <td>{{::contact.favoriteFruit}}</td>
+    </tr>
+    </tbody>
+</table>

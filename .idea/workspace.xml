@@ -23,44 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ngpLocalEventDirs.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/ngpLocalEventDirs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="645">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="-1.8" vertical-offset="0" max-vertical-offset="135">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ng-perf-patches.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/ng-perf-patches.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="585">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="repeat-template.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-template.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,25 +35,43 @@
       <file leaf-file-name="repeat-view.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="38" selection-start="233" selection-end="233" vertical-scroll-proportion="45.5" vertical-offset="1152" max-vertical-offset="1620">
+            <state line="4" column="53" selection-start="254" selection-end="254" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="900">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="randomButton.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-app/directives/randomButton.js">
+      <file leaf-file-name="ng-class.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/ng-class.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="7" selection-start="663" selection-end="663" vertical-scroll-proportion="-8.653846" vertical-offset="0" max-vertical-offset="315">
+            <state line="3" column="0" selection-start="60" selection-end="123" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="615">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="bind-once.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/bind-once.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="551" selection-end="1307" vertical-scroll-proportion="0.7929515" vertical-offset="225" max-vertical-offset="720">
+            <state line="0" column="62" selection-start="62" selection-end="62" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ng-style.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/ng-style.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="45" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.7051282" vertical-offset="0" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="complex-expressions.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/complex-expressions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
@@ -100,7 +80,25 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="24" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+            <state line="16" column="76" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ng-bind.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/ng-bind.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="8" selection-start="799" selection-end="799" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expression-bind.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/expression-bind.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="62" selection-start="62" selection-end="62" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -109,7 +107,7 @@
       <file leaf-file-name="repeat-ctrl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="19" selection-start="504" selection-end="507" vertical-scroll-proportion="-5.8076925" vertical-offset="29" max-vertical-offset="1065">
+            <state line="10" column="26" selection-start="493" selection-end="493" vertical-scroll-proportion="-5.769231" vertical-offset="0" max-vertical-offset="1260">
               <folding />
             </state>
           </provider>
@@ -150,8 +148,20 @@
         <option value="$PROJECT_DIR$/lib/ngpLocalEventDirs.js" />
         <option value="$PROJECT_DIR$/examples/directives/randomButton.js" />
         <option value="$PROJECT_DIR$/demo-app/index.html" />
-        <option value="$PROJECT_DIR$/demo-app/directives/randomButton.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/demo-app/directives/randomButton.js" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/direct.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/regular-bind.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/ng-class-with-expressions.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/ng-class.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js" />
+        <option value="$PROJECT_DIR$/demo-app/app.js" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/expression-bind.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/complex-expressions.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/ng-bind.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/bind-once.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/repeat-view.html" />
+        <option value="$PROJECT_DIR$/demo-app/ng-repeat/ng-style.html" />
       </list>
     </option>
   </component>
@@ -233,6 +243,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-perf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-perf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-repeat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-perf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-perf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-perf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-perf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -241,6 +305,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -381,44 +449,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/expressions/expressions-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="7" selection-start="127" selection-end="127" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-ng-bind.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="714" selection-end="714" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="734">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="233" selection-end="233" vertical-scroll-proportion="45.5" vertical-offset="1152" max-vertical-offset="1620">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="305" selection-end="305" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/ngpLocalEventDirs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="821" selection-end="821" vertical-scroll-proportion="-6.6" vertical-offset="225" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
@@ -434,35 +474,105 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/directives/randomButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="197" selection-end="474" vertical-scroll-proportion="-6.3461537" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/expressions/expressions-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="127" selection-end="127" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="31" selection-start="1052" selection-end="1052" vertical-scroll-proportion="-13.25" vertical-offset="117" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/direct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="734">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-ctrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="504" selection-end="507" vertical-scroll-proportion="-5.8076925" vertical-offset="29" max-vertical-offset="1065">
+        <state line="10" column="26" selection-start="493" selection-end="493" vertical-scroll-proportion="-5.769231" vertical-offset="0" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/complex-expressions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/ng-bind.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="8" selection-start="799" selection-end="799" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/ng-class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="60" selection-end="123" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/bind-once.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="62" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/expression-bind.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="62" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/repeat-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="53" selection-start="254" selection-end="254" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+        <state line="16" column="76" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-app/directives/randomButton.js">
+    <entry file="file://$PROJECT_DIR$/demo-app/ng-repeat/ng-style.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="663" selection-end="663" vertical-scroll-proportion="-8.653846" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="551" selection-end="1307" vertical-scroll-proportion="0.7929515" vertical-offset="225" max-vertical-offset="720">
+        <state line="22" column="45" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.7051282" vertical-offset="0" max-vertical-offset="615">
           <folding />
         </state>
       </provider>

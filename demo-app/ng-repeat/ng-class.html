@@ -1,8 +1,7 @@
-<body ng-controller="repeatController1">
+<body>
 <button data-ng-click="fetchData()">Refresh</button>
 <button data-ng-click="changeData()">Change Something</button>
-<random-button>Random Local</random-button>
-<button ngp-local-click="generateRandom(event)">Random</button><span ng-bind="randomNumber"></span>
+<random-button>Random</random-button>
 <button data-ng-click="flipColor()">Flip Color</button>
 <div ng-controller="randomController">
     <button ngp-local-click="generateRandom(event)">Random</button><span ng-bind="randomNumber"></span>
@@ -29,24 +28,6 @@
         <td ng-class="{'red':negative, 'green':!negative}" data-ng-bind="contact.longitude"></td>
         <td ng-class="{'red':negative, 'green':!negative}" data-ng-bind="contact.favoriteFruit"></td>
     </tr>
-
-    <!--<tr ng-repeat="contact in contacts">-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{$index > 50?'upper':'lower'}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">-->
-            <!--{{contact.name | uppercase}}-->
-        <!--</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.company | uppercase}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.email}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.age > 35?'middle':'young'}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.eyeColor}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.gender | limitTo: 1 | uppercase }}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.phone}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.address | limitTo:10}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.registered | date: 'shortDate'}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.latitude}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.longitude}}</td>-->
-        <!--<td ng-class="{'red':negative, 'green':!negative}">{{contact.favoriteFruit === 'banana'?'high carb':'normal'}}</td>-->
-    <!--</tr>-->
     </tbody>
 </table>
 <table>
