@@ -16,7 +16,7 @@ angular.module('NgPerf', [
             when("/ng-style", {templateUrl: "ng-repeat/ng-style.html", controller: "repeatController"}).
             when("/expression", {templateUrl: "ng-repeat/complex-expressions.html", controller: "repeatController"}).
             when("/expressions", {templateUrl: "expressions/expressions-view.html", controller: "expressionsController"}).
-            otherwise({redirectTo: '/ng-bind'});
+            otherwise({redirectTo: '/direct'});
 //        $compileProvider.debugInfoEnabled(true);
     }]
     );
