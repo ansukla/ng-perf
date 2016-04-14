@@ -10,6 +10,9 @@
     "perfmatters",
     "angularjs"
   ],
+  "main": [
+    "lib/ngpLocalEventDirs.js"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
